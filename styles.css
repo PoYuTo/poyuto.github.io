@@ -5,7 +5,7 @@ h1 {
 .poyuto {
     color: grey;
     font-size: 250px;
-    font-family: 'Doto';
+    font-family: 'Doto', serif';
 };
 
 .centre {
