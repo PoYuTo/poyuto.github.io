@@ -73,9 +73,9 @@ footer {
     color: #fff;
   }
 
-footer a:hover {
+footer a img:hover {
     transition: all 200ms;
-    opacity: 20%;
+    opacity: 50%;
 }
   .bg {
     position: fixed;
