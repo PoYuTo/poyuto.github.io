@@ -75,8 +75,7 @@ footer {
 
 footer a:hover {
     transition: all 200ms;
-    background-color:#ddd;
-    color: black;
+    opacity: 20%;
 }
   .bg {
     position: fixed;
