@@ -19,10 +19,11 @@ h1 {
 }
 
 .topnav a {
-    float: right;
+    position: sticky;
+    top: 14px;
+    right: 16px;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
     font-family: 'Doto', sans-serif;
@@ -45,7 +46,9 @@ h1 {
 }
 
 .home a {
-    float: left;
+    position: sticky;
+    top: 14px;
+    left: 16px;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
