@@ -3,4 +3,6 @@ Because I cannot display all my tournament banners on my profile I learned to di
 
 *Fuck ppy*
 
+*For legal reasons the above statement is a joke*
+
 
